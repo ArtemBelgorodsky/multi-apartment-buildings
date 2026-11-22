@@ -1,0 +1,20 @@
+- generic [ref=e4]:
+  - generic [ref=e10]:
+    - strong [ref=e11]: Контур.
+    - paragraph [ref=e12]: Управление жилым фондом
+  - generic [ref=e13]:
+    - generic [ref=e15]:
+      - heading "Вход в «Контур»" [level=1] [ref=e16]
+      - paragraph [ref=e17]: Войдите, чтобы открыть своё рабочее пространство.
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]: Электронная почта
+        - textbox "Электронная почта" [ref=e21]
+      - generic [ref=e22]:
+        - generic [ref=e23]: Пароль
+        - textbox "Пароль" [ref=e24]
+    - button "Войти" [ref=e25] [cursor=pointer]
+    - generic [ref=e28]:
+      - generic [ref=e29]: Впервые в «Контуре»?
+      - button "Зарегистрироваться" [ref=e30] [cursor=pointer]
+  - button "Открыть локальный режим" [ref=e31] [cursor=pointer]
